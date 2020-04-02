@@ -1,0 +1,10 @@
+C:\Users\MedDev\source\repos\adosqlite\adosqlite\obj\Debug\adosqlite.csprojAssemblyReference.cache
+C:\Users\MedDev\source\repos\adosqlite\adosqlite\obj\Debug\adosqlite.csproj.CoreCompileInputs.cache
+C:\Users\MedDev\source\repos\adosqlite\adosqlite\bin\Debug\adosqlite.exe
+C:\Users\MedDev\source\repos\adosqlite\adosqlite\bin\Debug\adosqlite.pdb
+C:\Users\MedDev\source\repos\adosqlite\adosqlite\bin\Debug\System.Data.SQLite.DLL
+C:\Users\MedDev\source\repos\adosqlite\adosqlite\obj\Debug\adosqlite.csproj.CopyComplete
+C:\Users\MedDev\source\repos\adosqlite\adosqlite\obj\Debug\adosqlite.exe
+C:\Users\MedDev\source\repos\adosqlite\adosqlite\obj\Debug\adosqlite.pdb
+C:\Users\MedDev\source\repos\adosqlite\adosqlite\bin\Debug\adosqlite.exe.config
+C:\Users\MedDev\source\repos\adosqlite\adosqlite\bin\Debug\App.config
